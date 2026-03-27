@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "nexconn-chat-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/NexconnAI-Dev/nexconn-chat-sdk-ios.git",
+      "state" : {
+        "revision" : "e9833ea6d8617da50343e1b9bdedba24f4755477",
+        "version" : "26.1.0"
+      }
+    },
+    {
+      "identity" : "rongcloudim-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rongcloud/RongCloudIM-iOS.git",
+      "state" : {
+        "revision" : "0989424f5ee6248b5f9dea4dbbe69ce33c334eac",
+        "version" : "5.36.1"
+      }
+    }
+  ],
+  "version" : 2
+}
